@@ -1,4 +1,4 @@
-# Hi 👋, I'm Victor Correa
+# Hi 👋, I'm Victor Hugo
 🚀 **Study of systems analysis and development| JavaScript, HTM & CSS Junior**  
 🇧🇷 Brazil
 
