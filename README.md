@@ -11,6 +11,7 @@ I am a developer focused on building scalable digital products, SaaS platforms, 
   <a href="https://github.com/Victorhugozzz">
     <img src="https://img.shields.io/badge/GitHub-VICTOR CORREA-181717?style=for-the-badge&logo=github" />
   </a>
+  
 ---
 
 🧠 What I do
@@ -49,15 +50,6 @@ I am a developer focused on building scalable digital products, SaaS platforms, 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Victorhugozzz&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorhugozzz&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🚀 Philosophy
