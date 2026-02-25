@@ -1,5 +1,5 @@
 # Hi 👋, I'm Victor Hugo
-🚀 **Study of systems analysis and development| JavaScript, HTM & CSS Junior**  🇧🇷 Brazil
+🚀 **Study of systems analysis and development| HTM & CSS, JavaScript, Php **  🇧🇷 Brazil
 
 I am a developer focused on building scalable digital products, SaaS platforms, and high-performance web systems. I have strong attention to software architecture, performance, and clean code, always seeking solutions aligned with business goals.
 
