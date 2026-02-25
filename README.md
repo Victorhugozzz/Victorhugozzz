@@ -59,5 +59,5 @@ I am a developer focused on building scalable digital products, SaaS platforms, 
 > Don't Repeat Yourself."_
 ---
 
-⭐ If you like my work, consider starring a repository  
+⭐ If you like my work, consider starring a repository  send me "Hi"
 
